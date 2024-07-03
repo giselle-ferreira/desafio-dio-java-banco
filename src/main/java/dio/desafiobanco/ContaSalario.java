@@ -1,4 +1,4 @@
-package dio.giselletech;
+package dio.desafiobanco;
 
 public class ContaSalario extends Conta {
 
